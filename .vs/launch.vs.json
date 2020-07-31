@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "AS2020\\DronTaxi\\DronTaxi.exe",
+      "projectTarget": "",
+      "name": "DronTaxi.exe"
+    }
+  ]
+}
